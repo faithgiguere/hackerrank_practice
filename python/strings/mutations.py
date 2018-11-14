@@ -7,3 +7,4 @@ def mutate_string(string, position, character):
     l[position] = character
     # Return as a string
     return "".join(l)
+    

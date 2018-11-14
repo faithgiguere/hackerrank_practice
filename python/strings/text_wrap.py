@@ -7,3 +7,4 @@ def wrap(string, max_width):
         str += (string[i:i+max_width]) + '\n'
     
     return str
+    
