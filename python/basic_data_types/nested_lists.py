@@ -21,3 +21,4 @@ if __name__ == '__main__':
     
     for name in second_highest_names:
         print(name)
+        

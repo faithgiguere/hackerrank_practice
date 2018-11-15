@@ -17,3 +17,4 @@ if __name__ == '__main__':
         # Otherwise add attribute and args to list
         else:    
             getattr(l, command)(*arguments)
+            

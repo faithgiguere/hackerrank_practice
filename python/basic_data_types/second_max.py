@@ -10,3 +10,4 @@ if __name__ == '__main__':
     
     # Print second highest of sorted values
     print(sorted_arr[-2])
+    

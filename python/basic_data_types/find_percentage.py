@@ -19,3 +19,4 @@ if __name__ == '__main__':
     average = sum(query_scores) / len(query_scores)
     # Round to 2 decimal places
     print("{:.2f}".format(average))
+    
