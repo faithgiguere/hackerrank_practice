@@ -2,9 +2,9 @@
 
 # Number of values in each set and sets - convert strings to sets of ints
 n = int(input())
-first_set = set(map(int,input().split()))
+first_set = set(map(int, input().split()))
 m = int(input())
-second_set = set(map(int,input().split()))
+second_set = set(map(int, input().split()))
 
 # Numbers in first set not in second
 first_diff = first_set.difference(second_set)
